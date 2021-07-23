@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MEMORY GAME</string>
+    <string name="tv_p1">Score: 0</string>
+    <string name="tv_hs">High Score: 0</string>
+    <string name="iv_11"></string>
+    <string name="iv_12"></string>
+    <string name="iv_13"></string>
+    <string name="iv_21"></string>
+    <string name="iv_22"></string>
+    <string name="iv_31"></string>
+    <string name="iv_32"></string>
+    <string name="iv_33"></string>
+    <string name="iv_00"></string>
+</resources>
